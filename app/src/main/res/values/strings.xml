@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo Watson</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<!--
+    <string name="apyKeyVision">535c1cb59ce35fc192152d8400a97052986a8007</string>
+    -->
+    <string name="apyKeyVision">2c9642caf5d75d2976e6b55637b3a8a23e5f910c</string>
+    <string name="languajeTranslationPass">LSwekEk7ckBP</string>
+    <string name="languajeTranslationUser">758eb76d-f371-4000-83a4-1546cf9a61cd</string>
+    <string name="textToSpeechPass">ci26pX1VmqSw</string>
+    <string name="textToSpeechUser">1b9f5dc9-b0eb-454f-84ae-6e404dac4ce7</string>
+
+</resources>
